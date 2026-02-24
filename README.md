@@ -9,7 +9,7 @@
 ![Pyright](https://img.shields.io/badge/Pyright-4EAAAF?style=for-the-badge)
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
-API automation testing framework built with Python Requests. Designed for reliability and scalability with advanced features for comprehensive API testing.
+API automation testing project. Designed for reliability and scalability with advanced features for comprehensive API testing.
 
 ## ✨ Features
 
@@ -41,8 +41,8 @@ API automation testing framework built with Python Requests. Designed for reliab
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sdet0mis/api-testing.requests.git
-cd api-testing.requests
+git clone https://github.com/murashovilya/requests-api-testing.git
+cd requests-api-testing
 ```
 
 ### 2. Install Dependencies
@@ -54,7 +54,7 @@ uv sync
 ### 3. Run Tests and Generate Report
 
 ```bash
-./run_tests.sh
+sh run_tests.sh
 ```
 
 ## 📄 License

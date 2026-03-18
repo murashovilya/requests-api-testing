@@ -41,7 +41,7 @@ API automation testing project. Designed for reliability and scalability with ad
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/murashovilya/requests-api-testing.git
+git clone https://github.com/qam1s/requests-api-testing.git
 cd requests-api-testing
 ```
 
